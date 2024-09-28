@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <conio.h>
+main()
+{
+/*clrscr();*/
+    printf("C-programming ");
+    /* \n  To move next line */
+    /* \t To move next Tab*/
+    printf("\n writting by sridharK for fun");
+    printf("\n similar  programs are  written in python ");
+    printf("\n please give me \t star ");
+    getch();
+}
